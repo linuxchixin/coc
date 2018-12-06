@@ -7,6 +7,8 @@ Be respectful
 
 Respect yourself, and respect others. Be courteous to those around you. If someone indicates they don’t wish to be photographed, respect that wish. If someone indicates they would like to be left alone, let them be. Our event venues and online spaces may be shared with members of the public; please be considerate to all patrons of these locations.
 
+Before Direct Messaging someone, ask for their permission on the group. If they allow you to, only then proceed to do so. The people in here are here to learn, explore and socialze in a professional environment.
+
 Be inclusive
 ============
 
