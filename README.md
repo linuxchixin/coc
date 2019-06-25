@@ -60,6 +60,6 @@ Here are some examples of behaviours that have occurred at past events which are
     - sexist, racist, or other exclusionary jokes;
     - unwarranted exclusion from conference or related events based on age, gender, sexual orientation, disability, physical appearance, body size, race, religion;
 
-We want everyone to have a good time at our events. Be aware, be inclusive, be polite, be respectful and if you observe anything violating CoC, please report immediately to +91-<4dig>-<3dig>-<3dig> or mail to: <mail@ourcommunity.org>
+We want everyone to have a good time at our events. Be aware, be inclusive, be polite, be respectful and if you observe anything violating CoC, please report immediately to linuxchixdelhi@gmail.com
 
 This CoC was originally published by Linux Australia for PyCon AU and is a modified version of that document, available to be re-used or modified under the terms of the [Creative Commons Attribution-ShareAlike 3.0 Australia licence](https://creativecommons.org/licenses/by-sa/3.0/au/), available from [CreativeCommons.org](CreativeCommons.org).
